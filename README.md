@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋, I'm Hadeer Mahdy, A Web developer from Egypt!</h3>
 
-- 🔭 I’m currently working in [The Automation unit of the Faculty of Computers and Information at Ain Shams University]
-
 - 🌱 I’m currently learning **.NET Technologies and AI for my masters degree**
 
 - 👯 I’m looking to collaborate on **new innovative software projects**
 
-- 💬 Ask me about **.NET MVC, .NET Core, SQL server and Entity Framework**
+- 💬 Ask me about **.NET MVC, .NET Minimal API, .NET Core, SQL server and Entity Framework**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hadeer-mahdy/**
 
